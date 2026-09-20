@@ -91,19 +91,6 @@ The final dataset provides a clean foundation for future predictive analysis and
 
 ---
 
-# Repository Structure
-
-```
-urban-mobility-economic-productivity/
-│
-├── README.md
-├── Urban_Mobility_Analysis.ipynb
-├── mobility_productivity_2024.csv
-└── images/
-```
-
----
-
 # Tools Used
 
 - Python
