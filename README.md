@@ -1,3 +1,7 @@
+# Urban Mobility & Economic Productivity Analysis (Python)
+
+Python data analysis exploring the relationship between urban mobility and economic productivity, using TomTom Traffic Index and OECD Cities data.
+
 # Business Objective
 
 The objective of this project is to analyze how traffic congestion relates to economic productivity across major cities worldwide.
