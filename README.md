@@ -1,19 +1,3 @@
-# Urban Mobility & Economic Productivity Analysis (Python)
-
-Python data analysis project focused on exploring the relationship between urban mobility and economic productivity using real-world datasets from TomTom Traffic Index and OECD Cities.
-
----
-
-# 📂 Project Files
-
-### 📓 Jupyter Notebook
-➡️ **[[https://github.com/titankrak-hash/Urban-Mobility-Economic-Productivity-Analysis-Python-/tree/main](https://github.com/titankrak-hash/Urban-Mobility-Economic-Productivity-Analysis-Python-/tree/main#:~:text=urban_mobility_analysis.ipynb.ipynb)](https://github.com/titankrak-hash/Urban-Mobility-Economic-Productivity-Analysis-Python-/blob/main/urban_mobility_analysis.ipynb.ipynb)**
-
-### 📊 Clean Dataset
-➡️ **https://github.com/titankrak-hash/Urban-Mobility-Economic-Productivity-Analysis-Python-/blob/main/mobility_productivity_2024.csv.csv**
-
----
-
 # Business Objective
 
 The objective of this project is to analyze how traffic congestion relates to economic productivity across major cities worldwide.
@@ -133,3 +117,8 @@ urban-mobility-economic-productivity/
 
 **Sebastian Ladino**
 Data Analytics Portfolio
+
+## Project Files
+
+- [Jupyter notebook](urban_mobility_analysis.ipynb.ipynb)
+- [Clean dataset (.csv)](mobility_productivity_2024.csv.csv)
