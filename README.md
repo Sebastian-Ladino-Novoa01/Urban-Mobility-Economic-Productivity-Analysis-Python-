@@ -111,5 +111,5 @@ Data Analytics Portfolio
 
 ## Project Files
 
-- [Jupyter notebook](urban_mobility_analysis.ipynb.ipynb)
-- [Clean dataset (.csv)](mobility_productivity_2024.csv.csv)
+- [Jupyter notebook](urban_mobility_analysis.ipynb)
+- [Clean dataset (.csv)](mobility_productivity_2024.csv)
